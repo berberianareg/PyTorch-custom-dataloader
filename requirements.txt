@@ -1,0 +1,5 @@
+matplotlib==3.8.4
+numpy==2.1.0
+pandas==2.2.2
+torch==2.5.0.dev20240819
+torchvision==0.20.0.dev20240819
