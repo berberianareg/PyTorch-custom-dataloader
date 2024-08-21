@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# specify root directory where labels.csv and images.csv are stored
+# specify root directory where .py and .csv files are stored
 root_dir=''
 # specify batch size
 batch_size=52
